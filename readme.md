@@ -2,7 +2,7 @@ Projeto desenvolvido no Bootcamp do IGTI [Meu primeiro bootcamp]
 
 ### Objetivo
 
-Desenvolver endpoints para a busca personalizadas de notas de alunos.
+Desenvolver endpoints usando Node.js e Express para a busca personalizadas de notas de alunos.
 
 ### Tecnologias usadas
 
